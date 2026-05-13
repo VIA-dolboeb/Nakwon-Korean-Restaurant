@@ -1,0 +1,8 @@
+{
+  "name": "Nakwon Korean Restaurant",
+  "description": "Premium authentic Korean dining experience in Richmond Hill. Traditional flavors served in a modern, luxury setting since 2012.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
